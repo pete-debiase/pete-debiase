@@ -11,8 +11,8 @@ I'm studying CS, with special interests in machine learning, AI, and HCI. My fav
 - 🆗 Java, HTML/CSS/JavaScript, C/C++, Lua
 - 🌱 Rust, Go, Scikit-Learn/Keras/TensorFlow/PyTorch, Django, React, Docker/Kubernetes
 - 🛠️ IntelliJ IDEA + Sublime Text + Windows Terminal
-- ➕ 3D CAD (Alibre Design, SolidWorks), PCB design/layout (KiCad)
 - 💻 Windows + WSL > Linux (Manjaro) > macOS, Android > iOS
+- ➕ 3D CAD (Alibre Design, SolidWorks), PCB design/layout (KiCad)
 - 🍉 Japanese (full professional proficiency), Spanish (limited working proficiency)
 
 <!-- Here are some ideas to get you started:
