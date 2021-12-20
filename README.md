@@ -1,5 +1,5 @@
 ### Hi there! Here's a little about me...
-Midway through a career pivot into software engineering, with special interests in ML, AI, and HCI. Superpowers include rapid self-learning and writing/coding at 200WPM+ with steno. 10+ years as a Japanese patent translator specializing in software and semiconductors. One day, I'd like to hook up my brain directly to a computer.
+I'm midway through a career pivot into software engineering, with special interests in ML, AI, and HCI. My superpowers include rapid self-learning and writing/coding at 200WPM+ with steno. I spent 10+ years as a Japanese patent translator specializing in software and semiconductors. One day, I'd like to hook up my brain directly to a computer.
 
 - 💪 Python (Flask, pandas, matplotlib, Beautiful Soup, etc.), AHK, bash/zsh, Git/GitHub
 - 🆗 Java, HTML/CSS/JavaScript, C/C++, Lua
