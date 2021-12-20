@@ -1,5 +1,5 @@
 ### Hi there!
-I'm making a career change into software engineering, with special interests in machine learning, AI, and HCI. My favorite languages are Python, Rust, and Go, and my superpowers are rapid self-learning and writing/coding at 200WPM+ with steno. Previously, I was a technical Japanese translator and patent agent.
+I'm making a career change into software engineering, with special interests in machine learning, AI, and HCI. My favorite languages are Python, Rust, and Go, and my superpowers are rapid self-learning and writing/coding at 200WPM+ with steno. Previously, I was a Japanese patent translator.
 
 - 💪 Python (Flask, pandas, matplotlib, Beautiful Soup, etc.), AHK, bash/zsh, Git/GitHub
 - 🆗 Java, HTML/CSS/JavaScript, C/C++, Lua
