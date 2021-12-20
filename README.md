@@ -1,7 +1,6 @@
 ### Hi there!
 I'm studying CS, with special interests in machine learning, AI, and HCI. My favorite languages are Python, Rust, and Go, and my superpowers are rapid self-learning and writing/coding at 200WPM+ with steno. In a past life, I was a technical Japanese translator and patent agent.
 
-### Technical Skills
 - 💪 Python (Flask, pandas, matplotlib, Beautiful Soup, etc.), AHK, bash/zsh, Git/GitHub
 - 🆗 Java, HTML/CSS/JavaScript, C/C++, Lua
 - 🌱 Rust, Go, Scikit-Learn/Keras/TensorFlow/PyTorch, Django, React, Docker/Kubernetes
