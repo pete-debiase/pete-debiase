@@ -1,9 +1,9 @@
 <!-- 2022/03/03 -->
-### About Me
-Japanese software patent translator turned software engineer. Write/code at 200WPM+ with self-built [steno system](https://github.com/pete-debiase/Sparrowhawk). Special interests in ML, AI, and HCI (especially neural interfaces). Let's make connecting computers to the brain an everyday thing!
+### 31-Word Nutshell
+Japanese patent translator turned software engineer. Write/code at 200WPM+ with custom steno [hardware](https://github.com/pete-debiase/AODox)/[software](https://github.com/pete-debiase/Sparrowhawk). Professional interests in ML, AI, and HCI (especially neural interfaces). Personal interests in fitness and pool 🎱 !
 
 ### Getting Around
-Check out [Overview](https://github.com/pete-debiase/Overview) for a full summary of my public projects. My personal favorites are pinned below :) .
+Take the [VIP Tour](SOTU.md) for an overview of my projects, work, and studies. A few of my personal favorites are pinned below :) .
 
 ### Look Me Up On
 - [LinkedIn](https://www.linkedin.com/in/pete-debiase/)
