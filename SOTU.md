@@ -1,16 +1,16 @@
 # Pete's State of the SWE Union
 ## Background
-This repo provides an overview of my projects, work, and studies as a software engineer.
+This is an overview of my projects, work, and studies as a software engineer.
 
-I started this repo when I set out on a career pivot from Japanese patent translation into tech in November 2021. At the time, I had several years of patchwork SWE experience, but it was high time to get serious. Therefore, my goals were to:
+I started keeping this overview near the beginning of my career pivot into tech in 2021. At the time, I had several years of patchwork SWE experience but wanted to get more serious. My goals were to:
 
-1. Officially reboot myself as a software engineer, and do it all better this time.
-2. Ruthlessly eradicate gaps in my skillset to maximize my contribution potential.
-3. Document/version control **_everything_** so that I'd never feel a need to completely start over again.
+1. Officially reboot myself as a software engineer.
+2. Eliminate skillset gaps to maximize my contribution potential.
+3. Document/version control **_everything_** to have an undeniable record of my efforts.
 
 So far it's all going great - I've never been more excited to get to work every day than I am now :) .
 
-#### Contents
+### Contents
 <!-- MarkdownTOC levels="1,2,3" -->
 
 - [Personal Projects](#personal-projects)
