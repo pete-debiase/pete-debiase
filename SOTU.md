@@ -1,14 +1,13 @@
-# Pete's State of the SWE Union
-## Background
+# Pete's SWE Journey
 This is an overview of my projects, work, and studies as a software engineer.
 
-I started keeping this overview near the beginning of my career pivot into tech in 2021. At the time, I had several years of patchwork SWE experience but wanted to get more serious. My goals were to:
+I started this overview when I embarked on a career pivot into tech (circa 2021). At the time, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
 
 1. Officially reboot myself as a software engineer.
-2. Eliminate skillset gaps to maximize my contribution potential.
-3. Document/version control **_everything_** to have an undeniable record of my efforts.
+2. Eliminate skill gaps to maximize my contribution potential.
+3. Document/version control **_everything_** to have a lasting record of my efforts.
 
-So far it's all going great - I've never been more excited to get to work every day than I am now :) .
+So far it's all going great - I've never been more excited to get to work every day 😊 .
 
 ### Contents
 <!-- MarkdownTOC levels="1,2,3" -->
@@ -39,7 +38,7 @@ So far it's all going great - I've never been more excited to get to work every 
 - [Comprog](https://github.com/pete-debiase/Comprog): Adventures in competitive programming.
 
 ## Work
-Head over to my [LinkedIn](https://www.linkedin.com/in/pete-debiase/)!
+Head over to my [LinkedIn](https://www.linkedin.com/in/pete-debiase/) for more details!
 
 ## Studies
 ### Personal
