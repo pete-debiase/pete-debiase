@@ -1,7 +1,7 @@
-# Pete's SWE Journey
+# Pete's SWE Adventures
 This is an overview of my projects, work, and studies as a software engineer.
 
-When I decided to make a career change into tech in 2021, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
+When I decided to transition into tech in 2021, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
 
 1. Officially reboot as a software engineer.
 2. Eliminate skill gaps to maximize potential.
@@ -16,10 +16,11 @@ So far it's going great - I've never been more excited to wake up every day 😊
     + [Human-Computer Interaction](#human-computer-interaction)
     + [Natural Language Processing + Computer Vision](#natural-language-processing--computer-vision)
     + [Honorable Mention](#honorable-mention)
-- [Work](#work)
 - [Studies](#studies)
     + [Personal](#personal)
     + [University](#university)
+- [Work](#work)
+- [Education / Certifications](#education--certifications)
 
 <!-- /MarkdownTOC -->
 <!-- ───────────────────────────────────────────────────────────────────────────── -->
@@ -69,15 +70,6 @@ So far it's going great - I've never been more excited to wake up every day 😊
     </tr>
 </table>
 
-## Work
-See my [LinkedIn](https://www.linkedin.com/in/pete-debiase/) for more details!
-
-|         Job         |     Company     |                 Description                  |     Dates / Location      |
-|:-------------------:|:---------------:|:--------------------------------------------:|:-------------------------:|
-|  Software Engineer  |   Viscell LLC   |  Distributed Java apps for hemostasis care.  |  2020 - 2021 / Boulder, CO  |
-| Software Translator |    Nintendo     | Localize Japanese SDKs for 3DS/Wii U/Switch. |  2012 - 2020 / Redmond, WA  |
-|   US Patent Agent   | PAD Engineering | Translate Japanese software/semicon patents. | 2010 - 2020 / Las Vegas, NV |
-
 ## Studies
 ### Personal
 #### General
@@ -122,3 +114,50 @@ See my [LinkedIn](https://www.linkedin.com/in/pete-debiase/) for more details!
     </tr>
 </table>
 
+## Work
+See my [LinkedIn](https://www.linkedin.com/in/pete-debiase/) for more details!
+
+|         Job         |     Company     |                 Description                  |      Dates / Location       |
+|:-------------------:|:---------------:|:--------------------------------------------:|:---------------------------:|
+|  Software Engineer  |   Viscell LLC   |  Distributed Java apps for hemostasis care.  |  2020 - 2021 / Boulder, CO  |
+| Software Translator |    Nintendo     | Localize Japanese SDKs for 3DS/Wii U/Switch. |  2012 - 2020 / Redmond, WA  |
+|   US Patent Agent   | PAD Engineering | Translate Japanese software/semicon patents. | 2010 - 2020 / Las Vegas, NV |
+
+## Education / Certifications
+<table>
+    <tr>
+        <th align="center">Degree / Certification</th>
+        <th align="center">Organization</th>
+        <th align="center">Date</th>
+    </tr>
+    <tr>
+        <td>Bachelor of Science, Computer Science</td>
+        <td>Oregon State University</td>
+        <td align="center">Exp. 2023</td>
+    </tr>
+    <tr>
+        <td>Master of Engineering, Focus in Technical Japanese, 4.0</td>
+        <td>University of Wisconsin-Madison</td>
+        <td align="center">2014</td>
+    </tr>
+    <tr>
+        <td>Bachelor of Science, Aerospace Engineering, 3.9 (Summa)</td>
+        <td>University of Colorado Boulder</td>
+        <td align="center">2011</td>
+    </tr>
+    <tr>
+        <td>US Patent Agent (Reg. No. 77,431)</td>
+        <td>US Patent and Trademark Office</td>
+        <td align="center">2018</td>
+    </tr>
+    <tr>
+        <td>Japanese Language Proficiency Test – N1</td>
+        <td>The Japan Foundation (国際交流基金)</td>
+        <td align="center">2013</td>
+    </tr>
+    <tr>
+        <td>Japanese Language and Culture Immersion Program</td>
+        <td>Sophia University Tokyo (上智大学)</td>
+        <td align="center">2010</td>
+    </tr>
+</table>
