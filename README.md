@@ -6,7 +6,7 @@ Japanese patent translator turned software engineer. Write/code at 200WPM+ with 
 Take the [VIP Tour](SOTU.md) for a quick overview of my projects, work, and studies. A few of my favorites are pinned below :) .
 
 ### Look Me Up On
-[LinkedIn](https://www.linkedin.com/in/pete-debiase/) • [LeetCode](https://leetcode.com/pete-debiase/) • [US Patent and Trademark Office](https://oedci.uspto.gov/OEDCI/practitionerDetails?regisNum=77431) • [Japan Association of Translators](https://jat.org/translators/profile/46aed945-3174-49c1-8d3a-3d0b5cf0bc6a) • [American Translators Association](https://web.atanet.org/onlinedirectories/tsd_view.php?id=14719)
+[LinkedIn](https://www.linkedin.com/in/pete-debiase/) / [LeetCode](https://leetcode.com/pete-debiase/) / [US Patent and Trademark Office](https://oedci.uspto.gov/OEDCI/practitionerDetails?regisNum=77431) / [Japan Association of Translators](https://jat.org/translators/profile/46aed945-3174-49c1-8d3a-3d0b5cf0bc6a) / [American Translators Association](https://web.atanet.org/onlinedirectories/tsd_view.php?id=14719)
 
 <!-- ────────────────────────────────────── Notes ───────────────────────────────────────
 - Tracking: https://github.com/antonkomarev/github-profile-views-counter
