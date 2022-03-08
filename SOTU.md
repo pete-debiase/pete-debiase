@@ -1,15 +1,15 @@
 # Pete's SWE Adventures
-This is an overview of my projects, work, and studies as a software engineer.
+This is a short tour of my projects, work, and studies as a software engineer. Please sit back and enjoy the ride 😊 .
 
-When I decided to transition into tech in 2021, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
+<!-- When I decided to transition into tech in 2021, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
 
 1. Officially reboot as a software engineer.
 2. Eliminate skill gaps to maximize potential.
 3. Document/version control **_everything_**.
 
-So far it's going great - I've never been more excited to wake up every day 😊 .
+So far it's going great - I've never been more excited to wake up every day 😊 . -->
 
-### Contents
+<!-- ### Contents -->
 <!-- MarkdownTOC levels="1,2,3" -->
 
 - [Personal Projects](#personal-projects)

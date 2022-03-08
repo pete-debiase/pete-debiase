@@ -1,6 +1,6 @@
 <!-- 2022/03/03 -->
 ### `self.summary.min()`
-Japanese patent translator turned software engineer. Write/code at 200WPM+ with custom steno [hardware](https://github.com/pete-debiase/AODox)/[software](https://github.com/pete-debiase/Sparrowhawk). Professional interests in ML, AI, and HCI (especially neural interfaces). Personal interests in fitness and pool 🎱 .
+Nintendo SDK translator turned software engineer. Write/code at 200WPM+ with custom steno [hardware](https://github.com/pete-debiase/AODox)/[software](https://github.com/pete-debiase/Sparrowhawk). Professional interests in ML, AI, and HCI (especially neural interfaces). Personal interests in kanji and pool 🎱 .
 
 ### Getting Around
 Take the [VIP Tour](SOTU.md) for a quick overview of my projects, work, and studies. A few of my favorites are pinned below :) .
