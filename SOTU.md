@@ -1,5 +1,5 @@
 # Pete's SWE Adventures
-This is a short tour of my projects, work, and studies as a software engineer. Please sit back and enjoy the ride 😊 .
+This is a short tour of my projects, work, and studies as a software engineer 😊 .
 
 <!-- When I decided to transition into tech in 2021, I had a few years of patchwork SWE experience but wanted to get more serious. My goals were to:
 
