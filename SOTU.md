@@ -94,7 +94,7 @@ So far it's going great - I've never been more excited to wake up every day 😊
 #### Data Structures and Algorithms
 <table>
     <tr>
-        <td><a href="https://github.com/pete-debiase/OSU-MATH-208">DSA Python</a></td>
+        <td><a href="https://github.com/pete-debiase/Complete-DSA-Course-Python">DSA Python</a></td>
         <td>The Complete Data Structures and Algorithms Course in Python (Udemy).</td>
         <td>2021 - ?</td>
     </tr>
