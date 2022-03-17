@@ -1,11 +1,11 @@
 <!-- 2022/03/03 -->
-### `self.summary.min()`
-Nintendo SDK translator turned software engineer. Write/code at 200WPM+ with custom steno [hardware](https://github.com/pete-debiase/AODox)/[software](https://github.com/pete-debiase/Sparrowhawk). Professional interests in ML, AI, and HCI (especially neural interfaces). Personal interests in kanji and pool 🎱 . 日本語大歓迎！
+### Hey, I'm Pete!
+Nintendo SDK translator turned software engineer (日本語大歓迎！). Write/code at 200WPM+ with custom steno [hardware](https://github.com/pete-debiase/AODox)/[software](https://github.com/pete-debiase/Sparrowhawk). Professional interests in ML, AI, and HCI (especially neural interfaces). Personal interests in kanji and pool 🎱 .
 
-### Getting Around
-Take the [VIP Tour](SOTU.md) for a quick overview of my projects, work, and studies. A few of my favorites are pinned below :) .
+### It's Dangerous To Go Alone! Take This.
+Here's a [short map](SOTU.md) of all my projects here on GitHub. A few of my latest favorites are always pinned below :) .
 
-### Social
+### Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/pete-debiase/) / [LeetCode](https://leetcode.com/pete-debiase/) / [USPTO](https://oedci.uspto.gov/OEDCI/practitionerDetails?regisNum=77431) / [Japan Association of Translators](https://jat.org/translators/profile/46aed945-3174-49c1-8d3a-3d0b5cf0bc6a) / [American Translators Association](https://web.atanet.org/onlinedirectories/tsd_view.php?id=14719)
 
 <!-- ────────────────────────────────────── Notes ───────────────────────────────────────
