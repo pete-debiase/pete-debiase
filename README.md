@@ -1,5 +1,5 @@
 <!-- 2022/03/03 -->
-### Hey, I'm Pete!
+### Howdy, I'm Pete
 Nintendo SDK translator turned software engineer (日本語大歓迎！). Write/code at 200WPM+ with custom steno [hardware](https://github.com/pete-debiase/AODox)/[software](https://github.com/pete-debiase/Sparrowhawk). Professional interests in ML, AI, and HCI (especially neural interfaces). Personal interests in kanji and pool 🎱 .
 
 ### It's Dangerous To Go Alone! Take This.
