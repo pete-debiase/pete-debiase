@@ -65,7 +65,7 @@ So far it's going great - I've never been more excited to wake up every day 😊
 <table>
     <tr>
         <td><a href="https://github.com/pete-debiase/Comprog">Comprog</a></td>
-        <td>Adventures in competitive programming.</td>
+        <td>Adventures in competitive programming. Now with progress tracking!</td>
         <td>2022 - ∞</td>
     </tr>
 </table>
