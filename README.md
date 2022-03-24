@@ -6,7 +6,7 @@ Nintendo SDK translator turned software engineer (日本語大歓迎！). Write/
 Here's a [short map](SOTU.md) of all my projects here on GitHub. A few of my favorites are pinned below :) .
 
 ### Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/pete-debiase/) / [LeetCode](https://leetcode.com/pete-debiase/) / [USPTO](https://oedci.uspto.gov/OEDCI/practitionerDetails?regisNum=77431) / [Japan Association of Translators](https://jat.org/translators/profile/46aed945-3174-49c1-8d3a-3d0b5cf0bc6a) / [American Translators Association](https://web.atanet.org/onlinedirectories/tsd_view.php?id=14719)
+[LinkedIn](https://www.linkedin.com/in/pete-debiase/) / [LeetCode](https://leetcode.com/pete-debiase/) / [USPTO](https://oedci.uspto.gov/OEDCI/practitionerDetails?regisNum=77431) / [Japan Association of Translators](https://jat.org/translators/profile/46aed945-3174-49c1-8d3a-3d0b5cf0bc6a) / [American Translators Association](https://web.atanet.org/onlinedirectories/tsd_view.php?id=14719) <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="25" align="right" alt="GitHub Mona">
 
 <!-- ────────────────────────────────────── Notes ───────────────────────────────────────
 - Tracking: https://github.com/antonkomarev/github-profile-views-counter
