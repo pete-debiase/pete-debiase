@@ -8,7 +8,7 @@ Here's a [short map](SOTU.md) of all my projects here on GitHub. A few of my fav
 ### Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/pete-debiase/) / [LeetCode](https://leetcode.com/pete-debiase/) / [USPTO](https://oedci.uspto.gov/OEDCI/practitionerDetails?regisNum=77431) / [Japan Association of Translators](https://jat.org/translators/profile/46aed945-3174-49c1-8d3a-3d0b5cf0bc6a) / [American Translators Association](https://web.atanet.org/onlinedirectories/tsd_view.php?id=14719)
 
-<img width="30" align="right" alt="GitHub Mona" src="https://github.githubassets.com/images/mona-loading-default.gif">
+<!-- <img width="30" align="right" alt="GitHub Mona" src="https://github.githubassets.com/images/mona-loading-default.gif"> -->
 
 <!-- ────────────────────────────────────── Notes ───────────────────────────────────────
 - Tracking: https://github.com/antonkomarev/github-profile-views-counter
